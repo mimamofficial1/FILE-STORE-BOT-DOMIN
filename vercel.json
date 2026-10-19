@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://mrn-universe-bypass-protect-bot.koyeb.app/$1"
+      "destination": "https://mrn-file-store-bot-g1ojp.sevalla.app/$1"
     }
   ]
 }
