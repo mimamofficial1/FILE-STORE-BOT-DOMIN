@@ -1,0 +1,23 @@
+{
+  "name": "mrn-stream-stortv",
+  "version": "1.0.0",
+  "description": "Vercel proxy with Speed Insights for mrn-stream-stortv Railway app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimamofficial1/FILE-STORE-BOT-DOMIN.git"
+  },
+  "keywords": ["vercel", "proxy", "speed-insights"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimamofficial1/FILE-STORE-BOT-DOMIN/issues"
+  },
+  "homepage": "https://github.com/mimamofficial1/FILE-STORE-BOT-DOMIN#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.1.0"
+  }
+}
